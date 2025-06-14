@@ -1,4 +1,4 @@
-<h1 align="center">🌐 TOHKHHUI — The Open Tech Learning Ecosystem 🚀</h1>
+<h1 align="center">🌐 TOHKHHUI — The Open Tech Learning Ecosystem </h1>
 <h3 align="center"><i>"Master systems. Build durable skills. Accelerate lifelong growth."</i></h3>
 
 <p align="center">
