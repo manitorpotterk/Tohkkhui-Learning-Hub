@@ -1,127 +1,84 @@
 # 🌐 TOHKHHUI LearnHub — The Complete Tech Learning Ecosystem
 
-Welcome to **TOHKHHUI LearnHub**, a fully curated, fully open-source, 100% free knowledge hub for building modern tech careers — from coding to startups, AI to cloud, design to entrepreneurship.
+> 🚀 **A brutally honest, fully curated, absolutely free knowledge system for long-term tech mastery.**
 
 ---
 
-## 🚀 Why This Exists
+## 📌 Why TOHKHHUI LearnHub Exists
 
-There are millions of scattered tutorials and courses online.  
-But very few **complete, curated, roadmap-driven resources** that:
-
-- Are 100% free.
-- Cover all essential domains.
-- Provide only trusted, proven learning sources.
-- Serve developers, builders, designers, and entrepreneurs at all levels.
-
-**TOHKHHUI LearnHub** is designed to fill that gap.
-
-This is not a random list of links.  
-This is your full-stack knowledge base.
+- ✅ 100% Free-First Resources
+- ✅ Roadmap-Driven
+- ✅ System Thinking Applied
+- ✅ Code Wisdom Included
+- ✅ Long-Term Growth Focused
 
 ---
 
 ## 📂 Repository Structure
 
-| Section | Directory | Quick Access |
-| ------- | --------- | ------------ |
-| Programming | `resources/programming/` | [Open](resources/programming/README.md) |
-| Web Development | `resources/web-development/` | [Open](resources/web-development/README.md) |
-| Machine Learning | `resources/machine-learning/` | [Open](resources/machine-learning/README.md) |
-| Cybersecurity | `resources/cybersecurity/` | [Open](resources/cybersecurity/README.md) |
-| Artificial Intelligence | `resources/ai/` | [Open](resources/ai/README.md) |
-| Data Science | `resources/data-science/` | [Open](resources/data-science/README.md) |
-| Cloud & DevOps | `resources/cloud-devops/` | [Open](resources/cloud-devops/README.md) |
-| System Design | `resources/system-design/` | [Open](resources/system-design/README.md) |
-| Interview Preparation | `resources/interview-prep/` | [Open](resources/interview-prep/README.md) |
-| Blockchain & Web3 | `resources/blockchain-web3/` | [Open](resources/blockchain-web3/README.md) |
-| 3D Animation, VFX & Creative Tech | `resources/animation-vfx/` | [Open](resources/animation-vfx/README.md) |
-| Tech Startup & Entrepreneurship | `resources/tech-startup/` | [Open](resources/tech-startup/README.md) |
+| Section | Path | Link |
+| ------- | ---- | ---- |
+| 🌱 Programming | `resources/programming/` | [Open](resources/programming/README.md) |
+| 🌐 Web Development | `resources/web-development/` | [Open](resources/web-development/README.md) |
+| 🤖 Machine Learning | `resources/machine-learning/` | [Open](resources/machine-learning/README.md) |
+| 🔐 Cybersecurity | `resources/cybersecurity/` | [Open](resources/cybersecurity/README.md) |
+| 🧠 Artificial Intelligence | `resources/ai/` | [Open](resources/ai/README.md) |
+| 📊 Data Science | `resources/data-science/` | [Open](resources/data-science/README.md) |
+| ☁️ Cloud & DevOps | `resources/cloud-devops/` | [Open](resources/cloud-devops/README.md) |
+| 🏗 System Design | `resources/system-design/` | [Open](resources/system-design/README.md) |
+| 🎯 Interview Preparation | `resources/interview-prep/` | [Open](resources/interview-prep/README.md) |
+| 🔗 Blockchain & Web3 | `resources/blockchain-web3/` | [Open](resources/blockchain-web3/README.md) |
+| 🎬 Animation, VFX & Creative Tech | `resources/animation-vfx/` | [Open](resources/animation-vfx/README.md) |
+| 🚀 Startup & Entrepreneurship | `resources/tech-startup/` | [Open](resources/tech-startup/README.md) |
+| 🔬 **System Thinking (NEW PHASE)** | `resources/system-thinking/` | [Open](resources/system-thinking/README.md) |
+| 🧠 Life Codes (Code Wisdom) | `life-codes/` | [Open](life-codes/README.md) |
 
 ---
 
-## 📊 Who This Is For
+## 🔧 Automation Tools
 
-- 🧑‍💻 Aspiring Developers & Engineers  
-- 🧑‍🎓 CS Students & Career Switchers  
-- 🧑‍🏭 Cybersecurity & AI Enthusiasts  
-- 🎨 3D Artists, Animators, Motion Designers  
-- 💼 Startup Founders & Solo Entrepreneurs  
-- 🧑‍🏫 Instructors, Bootcamp Mentors & Community Builders  
-- 💡 Open-Source Learners & Contributors
+| Tool | File | Link |
+| ---- | ---- | ---- |
+| 🛠 Life Codes Automation | `setup_life_codes.sh` | [View](setup_life_codes.sh) |
+| 🩺 Health Check Automation | `repo_health_check.sh` | [View](repo_health_check.sh) |
 
 ---
 
-## 📈 Roadmap Coverage
+## 🚀 Maintainer Resources
 
-### ✅ Full Stack Career Building
-- Programming Languages
-- Data Structures & Algorithms
-- System Design
-- Cloud & DevOps
-- AI, ML, Data Science
-- Cybersecurity & Ethical Hacking
-- Blockchain & Web3
-- Startup & Tech Entrepreneurship
-- Design, 3D Animation & VFX
+| File | Purpose |
+| ---- | ------- |
+| [MAINTAINER_HANDBOOK.md](MAINTAINER_HANDBOOK.md) | Personal maintainer system |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Contribution guidelines |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Community behavior rules |
+| [repo_structure.md](repo_structure.md) | Full structure reference |
+| [LICENSE](LICENSE) | Open-source license |
 
 ---
 
-## 🚀 How To Use This Repository
+## 💡 Core Philosophy
 
-- 📚 **Browse each directory** for fully structured resources.
-- 🎯 **Start with your domain** of interest.
-- 🚀 **Follow the links** to trusted books, courses, YouTube channels, and real-world projects.
-- ✅ Everything here is either:
-  - 100% free  
-  - Freely auditable (Coursera/edX)  
-  - Open-source or community-maintained.
+> **"We don’t just learn tech — we build personal systems for lifelong mastery."**
 
----
-
-## 🤝 Contributions Welcome
-
-TOHKHHUI LearnHub is built to grow.
-
-- ✅ Spot broken links?  
-- ✅ Know better resources?  
-- ✅ Want to add new sections?
-
-👉 **Create a pull request or open an issue!**
-
-Every PR must maintain:
-
-- ✅ Free-first policy  
-- ✅ High-quality trusted resources  
-- ✅ Well-structured Markdown format  
-- ✅ No self-promotional junk
+- Build Deep Knowledge Systems
+- Think Long-Term
+- Apply Systems Thinking
+- Stack Durable Skills
+- Reflect & Iterate
 
 ---
 
-## ⚠ License
+## ❤️ Credits
 
-> This repository is open-source and intended purely for educational and career development purposes.
-
-MIT License — Do your own due diligence for any paid services listed.
-
----
-
-## ❤️ Special Thanks
-
-- Open-source educators  
-- Community mentors  
-- Course creators who give knowledge freely  
-- Curators & contributors worldwide
+- Open-source educators
+- Free contributors worldwide
+- Mentors who share without gatekeeping
+- You — for reading and building with us
 
 ---
 
-> **"You don’t need permission to build your skills, your career, or your startup.  
-You need the right roadmap."**  
-— TOHKHHUI LearnHub
+> ✅ Maintained by [@ZeroHack01](https://github.com/ZeroHack01)
+
+> ⭐ If you like this, star the repository & share — help more builders grow!
+
 ---
-
-🌐 **Built and maintained by [@zerohackzer01](https://github.com/zerohackzer01)**
-
-⭐ If you find this helpful, don't forget to **star** the repository to support the project and help others discover it.
-
-🚀 **Start your journey now — knowledge is fully open here.**
