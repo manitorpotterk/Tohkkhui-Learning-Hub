@@ -486,4 +486,12 @@ A fully structured, complete, very long and curated list of programming language
 - [x86 Instruction Set Reference](https://www.felixcloutier.com/x86/)
 
 ---
+---
+
+> 🧠 “The only way to learn a new programming language is by writing programs in it.”  
+> — Dennis Ritchie
+
+🚀 Keep coding, keep building, and never stop learning. Programming is not a destination — it's a lifelong journey.
+
+---
 
