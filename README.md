@@ -118,15 +118,6 @@ MIT License — Do your own due diligence for any paid services listed.
 > **"You don’t need permission to build your skills, your career, or your startup.  
 You need the right roadmap."**  
 — TOHKHHUI LearnHub
-
----
-
----
-
-> **"You don’t need permission to build your skills, your career, or your startup.  
-You need the right roadmap."**  
-— TOHKHHUI LearnHub
-
 ---
 
 🌐 **Built and maintained by [@zerohackzer01](https://github.com/zerohackzer01)**
