@@ -1,130 +1,147 @@
-# 📂 Machine Learning Resources
+# 📂 Cybersecurity & Ethical Hacking Resources
 
-A fully structured, free, highly curated master resource list for Machine Learning & Deep Learning.
+A robust, fully curated master resource list for Cybersecurity, Ethical Hacking, Offensive & Defensive Security, Networking, Cryptography, and more.
 
 ---
 
-## 🚀 Machine Learning Fundamentals
+## 🚀 Cybersecurity Fundamentals
 
 ### 📚 Books
 
-- [The Hundred-Page Machine Learning Book by Andriy Burkov (Free PDF available widely)](https://themlbook.com/)
-- [An Introduction to Statistical Learning (ISLR)](https://www.statlearning.com/)
-- [Deep Learning by Ian Goodfellow (Free PDF available)](https://www.deeplearningbook.org/)
+- [Cybersecurity for Beginners (Raef Meeuwisse - Free version available)](https://bookauthority.org/books/new-cybersecurity-books)
+- [The Art of Invisibility by Kevin Mitnick](https://www.amazon.com/Art-Invisibility-Worlds-Online-Invisible/dp/0316380504)
+- [Cybersecurity Essentials (Cisco Press)](https://www.ciscopress.com/store/cybersecurity-essentials-9781587134388)
 
 ### 🌐 Web Courses
 
-- [Andrew Ng's Machine Learning Course (Coursera, free to audit)](https://www.coursera.org/learn/machine-learning)
-- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-- [fast.ai Practical Deep Learning](https://course.fast.ai/)
+- [Google Cybersecurity Professional Certificate (Free to audit)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- [Cisco Networking Academy Cybersecurity](https://www.netacad.com/courses/cybersecurity)
+- [EDX Cybersecurity Fundamentals (RIT)](https://www.edx.org/course/cybersecurity-fundamentals)
 
 ### 🎥 YouTube Channels
 
-- [FreeCodeCamp ML Full Course](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
-- [StatQuest with Josh Starmer (ML Simplified)](https://www.youtube.com/user/joshstarmer)
-- [Simplilearn Machine Learning](https://www.youtube.com/watch?v=ukzFI9rgwfU)
-- [Krish Naik (ML Engineering)](https://www.youtube.com/c/KrishNaik)
-- [CodeEmporium (ML & AI)](https://www.youtube.com/c/CodeEmporium)
+- [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
+- [David Bombal](https://www.youtube.com/c/DavidBombal)
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
+- [HackerSploit](https://www.youtube.com/c/HackerSploit)
+- [John Hammond](https://www.youtube.com/c/JohnHammond010)
 
 ### 🔧 Extra Resources
 
-- [Google AI Hub](https://aihub.cloud.google.com/)
-- [Awesome Machine Learning Repo](https://github.com/josephmisiti/awesome-machine-learning)
-- [Scikit-Learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
+- [Cybrary Free Courses](https://www.cybrary.it/)
+- [BlueTeam Labs](https://blueteamlabs.online/)
+- [TryHackMe Free Path](https://tryhackme.com/)
 
 ---
 
-## 🚀 Deep Learning
+## 🚀 Networking for Security
 
 ### 📚 Books
 
-- [Deep Learning with Python (François Chollet)](https://livebook.manning.com/book/deep-learning-with-python-second-edition/)
-- [Neural Networks and Deep Learning by Michael Nielsen (Free Book)](http://neuralnetworksanddeeplearning.com/)
-- [Dive into Deep Learning (Free)](https://d2l.ai/)
+- [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+- [Networking All-in-One For Dummies (Free excerpts widely available)](https://www.dummies.com/)
+- [Practical Packet Analysis](https://www.nostarch.com/packetanalysis3)
 
 ### 🌐 Web Courses
 
-- [Deep Learning Specialization - Andrew Ng (Free to audit)](https://www.coursera.org/specializations/deep-learning)
-- [fast.ai Deep Learning Part 2](https://course.fast.ai/)
-- [MIT Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+- [Cisco Networking Academy CCNA](https://www.netacad.com/courses/packet-tracer)
+- [Keith Barker Networking Free Videos](https://www.youtube.com/c/KeithBarker)
+- [Computer Networking Crash Course - FreeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw)
 
 ### 🎥 YouTube Channels
 
-- [Deep Learning AI YouTube](https://www.youtube.com/c/DeepLearningAI)
-- [Yannic Kilcher (Advanced Deep Learning)](https://www.youtube.com/c/YannicKilcher)
-- [Henry AI Labs (AI Research)](https://www.youtube.com/c/HenryAILabs)
-- [Deep Lizard](https://www.youtube.com/c/deeplizard)
-- [Aladdin Persson (PyTorch & TensorFlow)](https://www.youtube.com/c/AladdinPersson)
+- [Professor Messer](https://www.youtube.com/user/professormesser)
+- [Jeremy’s IT Lab](https://www.youtube.com/c/JeremysITLab)
+- [NetworkChuck Networking](https://www.youtube.com/c/NetworkChuck)
+- [David Bombal Networking](https://www.youtube.com/c/DavidBombal)
+- [CBT Nuggets Free Channel](https://www.youtube.com/user/cbtnuggets)
 
 ### 🔧 Extra Resources
 
-- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
-- [PyTorch Tutorials](https://pytorch.org/tutorials/)
-- [Kaggle Learn DL](https://www.kaggle.com/learn/intro-to-deep-learning)
+- [Wireshark (Packet Sniffer)](https://www.wireshark.org/)
+- [Packet Tracer (Cisco Free)](https://www.netacad.com/courses/packet-tracer)
 
 ---
 
-## 🚀 Applied Machine Learning (Real Projects)
+## 🚀 Ethical Hacking / Offensive Security
 
 ### 📚 Books
 
-- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (Aurélien Géron)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [The Web Application Hacker’s Handbook (Wiley)](https://www.wiley.com/en-us/The+Web+Application+Hacker%27s+Handbook:+Finding+and+Exploiting+Security+Flaws%2C+2nd+Edition-p-9781118026472)
+- [The Hacker Playbook 3](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)
+- [Metasploit: The Penetration Tester’s Guide](https://www.nostarch.com/metasploit)
 
 ### 🌐 Web Courses
 
-- [Kaggle Micro-Courses](https://www.kaggle.com/learn/overview)
-- [Microsoft Azure ML Free Learning Path](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-model-azure-machine-learning/)
-- [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
+- [TryHackMe Complete Free Path](https://tryhackme.com/)
+- [Hack The Box Academy (Free Tier)](https://academy.hackthebox.com/)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
 ### 🎥 YouTube Channels
 
-- [Data School](https://www.youtube.com/c/DataSchool)
-- [Kaggle Learn YouTube](https://www.youtube.com/c/kaggle)
-- [CodeBasics ML Projects](https://www.youtube.com/c/codebasics)
-- [Machine Learning Street Talk (Advanced Topics)](https://www.youtube.com/c/MachineLearningStreetTalk)
-- [Brandon Rohrer (Intuitive ML)](https://www.youtube.com/c/BrandonRohrer)
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
+- [HackerSploit](https://www.youtube.com/c/HackerSploit)
+- [John Hammond (CTF walkthroughs)](https://www.youtube.com/c/JohnHammond010)
+- [STÖK (Bug Bounty & Web Exploits)](https://www.youtube.com/c/STOKfredrik)
+- [NahamSec (Bug Bounties & Live Hacking)](https://www.youtube.com/c/Nahamsec)
 
 ### 🔧 Extra Resources
 
-- [Awesome ML Projects Repo](https://github.com/ashishpatel26/Real-World-Machine-Learning-Projects)
-- [Made With ML](https://madewithml.com/)
-- [Papers with Code](https://paperswithcode.com/)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
+- [Kali Linux](https://www.kali.org/)
 
 ---
 
-## 🚀 Math for Machine Learning
+## 🚀 Blue Team / Defensive Security
 
 ### 📚 Books
 
-- [Mathematics for Machine Learning (Free PDF)](https://mml-book.github.io/)
-- [Linear Algebra Done Right (Free Versions Circulating)](https://linear.axler.net/)
-- [Statistics for ML (Pearson Guide)](https://www.pearson.com/us/higher-education/product/James-Statistics-for-Machine-Learning/9780134845620.html)
+- [Blue Team Handbook: Incident Response](https://www.amazon.com/Blue-Team-Handbook-Incident-Response/dp/1500734756)
+- [Applied Network Security Monitoring](https://www.amazon.com/Applied-Network-Security-Monitoring-Detection/dp/0124172083)
+- [The Practice of Network Security Monitoring](https://www.nostarch.com/nsm)
 
 ### 🌐 Web Courses
 
-- [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-- [3Blue1Brown Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [MIT 6.042J Discrete Math](https://ocw.mit.edu/courses/mathematics/6-042j-mathematics-for-computer-science-fall-2005/)
+- [Blue Team Labs Online](https://blueteamlabs.online/)
+- [CyberDefenders Labs](https://cyberdefenders.org/)
+- [DFIR Training](https://www.dfir.training/)
 
 ### 🎥 YouTube Channels
 
-- [StatQuest Math](https://www.youtube.com/user/joshstarmer)
-- [3Blue1Brown Math](https://www.youtube.com/c/3blue1brown)
-- [Steve Brunton Applied Math](https://www.youtube.com/c/eigensteve)
-- [Zach Star (ML Math Simplified)](https://www.youtube.com/c/ZachStar)
-- [Welch Labs Math for ML](https://www.youtube.com/user/WelchLabs)
+- [John Strand (Security Onion & Blue Team)](https://www.youtube.com/user/strandjs)
+- [Security Blue Team](https://www.youtube.com/c/SecurityBlueTeam)
+- [Security Weekly](https://www.youtube.com/user/securityweeklytv)
+- [Simply Cyber](https://www.youtube.com/c/SimplyCyber)
+- [DFIR Diva](https://www.youtube.com/c/DFIRDiva)
 
 ### 🔧 Extra Resources
 
-- [Essence of Calculus (3Blue1Brown)](https://www.youtube.com/watch?v=WUvTyaaNkzM)
-- [Deep Learning Math Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
+- [Security Onion (Open Source SIEM)](https://securityonion.net/)
+- [TheHive Project](https://thehive-project.org/)
+- [Sigma (Detection Rules)](https://github.com/SigmaHQ/sigma)
 
 ---
 
-> 🤖 “Machine learning is not magic. It’s mathematics + creativity + practice.”  
+## 🚀 Certifications & Career Paths
+
+### 🌐 Web Courses
+
+- [CompTIA Security+ Free Study Resources](https://www.professormesser.com/security-plus/sy0-601/sy0-601-course-index/)
+- [Practical Ethical Hacking (TCM Security - Free Materials)](https://academy.tcm-sec.com/)
+- [Blue Team Level 1 Free Roadmap](https://www.blueteamlevelup.com/)
+
+### 🔧 Extra Resources
+
+- [Roadmap.sh Security Career Paths](https://roadmap.sh/cyber-security)
+- [LinkedIn Cybersecurity Career Guide (Free eBook)](https://opportunity.linkedin.com/en-us/cybersecurity)
+
+---
+
+> 🛡️ “In cybersecurity, the more you learn, the more you realize what you don’t know. Stay humble, stay sharp.”  
 > — TOHKHHUI LearnHub
 
-🚀 Stay patient. Understand the math. Practice small projects. Build from the foundations.  
-Your future ML career is built one project at a time.
+🚀 Security is not a destination, it's a mindset.  
+Every day you learn, you're making the world safer.
 
 ---
