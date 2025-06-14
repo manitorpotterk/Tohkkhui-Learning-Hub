@@ -1,211 +1,100 @@
-<div align="center">
+<h1 align="center">🌐 TOHKHHUI LearnHub 🚀</h1>
+<h3 align="center"><i>"Don't just learn tech — Master systems. Build careers. Grow for life."</i></h3>
 
-# 🌟 TOHKHHUI LearnHub
-### *"Build Systems. Master Tech. Grow for Life."*
-
-<img src="https://img.shields.io/github/stars/ZeroHack01/Tohkkhui-Learning-Hub?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"/>
-<img src="https://img.shields.io/github/forks/ZeroHack01/Tohkkhui-Learning-Hub?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks"/>
-<img src="https://img.shields.io/github/license/ZeroHack01/Tohkkhui-Learning-Hub?style=for-the-badge&color=green" alt="License"/>
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    🎯 Your Complete Tech Career Development Ecosystem 🎯     ║
-║                                                              ║
-║  💻 Programming • 🌐 Web Dev • 📊 Data Science • 🏗️ Systems  ║
-║  🤖 AI/ML • 🔐 Cybersecurity • ☁️ Cloud/DevOps • 🔗 Web3    ║
-║  🎬 Animation/VFX • 🎯 Interview Prep • 🚀 Tech Startup     ║
-║  🧠 System Thinking • 🧮 Life Codes • 💼 Career Growth      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
+<p align="center">
+💻 Programming • 🌐 Web Development • 🤖 AI & ML • 🔐 Cybersecurity • ☁️ Cloud & DevOps • 🔬 Data Science • 🔗 Blockchain & Web3 • 🧠 System Thinking • 🎬 Creative Tech • 💼 Entrepreneurship
+</p>
 
 ---
 
-## 🎯 Why Choose TOHKHHUI?
+# 📌 What is TOHKHHUI?
 
-<div align="center">
+✅ 100% Free-First Learning  
+✅ Professionally Curated Roadmaps  
+✅ System Thinking for Long-Term Tech Mastery  
+✅ Wisdom-Based Coding Philosophy (Life Codes)  
+✅ Career-Focused Growth Paths
 
-| 🌟 **Core Principles** | 🚀 **What You Get** |
-|:----------------------|:---------------------|
-| **🆓 Forever Free** - No paywalls, ever | **📚 13+ Complete Learning Paths** |
-| **🗺️ Roadmap Driven** - Clear progression | **🛠️ Hands-on Projects & Tools** |
-| **🧠 System Thinking** - Deep understanding | **👥 Supportive Community** |
-| **💎 Quality Over Quantity** - Curated content | **🎯 Career-Focused Learning** |
-| **⏰ Long-term Growth** - Sustainable success | **🔄 Regular Updates & Improvements** |
-
-</div>
-
-> 💡 *"We don't chase trends. We build strong, durable knowledge stacks that compound over time."*
+> _"We don't chase trends. We build durable knowledge systems that compound over decades."_ 🚀
 
 ---
 
-## 🗺️ Complete Learning Ecosystem
+# 🗺 Repository Map — Your Complete Tech Universe
 
-<div align="center">
-
-### 🚀 **Programming & Development**
-</div>
-
-| 🎯 **Learning Path** | 📂 **Directory** | 🎓 **Level** | 🎪 **What You'll Build** |
-|:---------------------|:------------------|:-------------|:-------------------------|
-| 💻 **Programming Fundamentals** | [`programming/`](resources/programming/) | Beginner → Advanced | Console apps, algorithms, data structures |
-| 🌐 **Web Development** | [`web-development/`](resources/web-development/) | Beginner → Pro | Responsive websites, full-stack apps |
-| 📊 **Data Science** | [`data-science/`](resources/data-science/) | Intermediate → Expert | Analytics dashboards, ML models |
-| 🏗️ **System Design** | [`system-design/`](resources/system-design/) | Advanced → Architect | Scalable architectures, distributed systems |
-
-<div align="center">
-
-### 🤖 **Emerging Technologies**
-</div>
-
-| 🎯 **Learning Path** | 📂 **Directory** | 🎓 **Level** | 🎪 **What You'll Build** |
-|:---------------------|:------------------|:-------------|:-------------------------|
-| 🤖 **Machine Learning** | [`machine-learning/`](resources/machine-learning/) | Intermediate → Expert | Predictive models, neural networks |
-| 🧠 **Artificial Intelligence** | [`ai/`](resources/ai/) | Advanced → Research | AI applications, chatbots, computer vision |
-| 🔗 **Blockchain & Web3** | [`blockchain-web3/`](resources/blockchain-web3/) | Intermediate → Pro | DApps, smart contracts, DeFi protocols |
-| 🎬 **Animation & VFX** | [`animation-vfx/`](resources/animation-vfx/) | Beginner → Pro | 3D models, animations, visual effects |
-
-<div align="center">
-
-### 🛡️ **Infrastructure & Security**
-</div>
-
-| 🎯 **Learning Path** | 📂 **Directory** | 🎓 **Level** | 🎪 **What You'll Build** |
-|:---------------------|:------------------|:-------------|:-------------------------|
-| 🔐 **Cybersecurity** | [`cybersecurity/`](resources/cybersecurity/) | Beginner → Expert | Security tools, penetration testing |
-| ☁️ **Cloud & DevOps** | [`cloud-devops/`](resources/cloud-devops/) | Intermediate → Pro | CI/CD pipelines, containerized apps |
-
-<div align="center">
-
-### 💼 **Career & Business**
-</div>
-
-| 🎯 **Learning Path** | 📂 **Directory** | 🎓 **Level** | 🎪 **What You'll Build** |
-|:---------------------|:------------------|:-------------|:-------------------------|
-| 🎯 **Interview Preparation** | [`interview-prep/`](resources/interview-prep/) | All Levels | Portfolio projects, interview skills |
-| 🚀 **Tech Startup** | [`tech-startup/`](resources/tech-startup/) | Intermediate → Founder | MVP products, business strategies |
-| 🧠 **System Thinking** | [`system-thinking/`](resources/system-thinking/) | Advanced → Mastery | Mental models, decision frameworks |
-| 🧮 **Life Codes** | [`life-codes/`](life-codes/) | Philosophical | Personal development, wisdom |
+| 🚀 Section | 📂 Directory | 🔗 Link |
+| -------- | -------- | ---- |
+| 🌱 **Programming** | `resources/programming/` | [📖 Explore](resources/programming/README.md) |
+| 🌐 **Web Development** | `resources/web-development/` | [📖 Explore](resources/web-development/README.md) |
+| 🤖 **Machine Learning** | `resources/machine-learning/` | [📖 Explore](resources/machine-learning/README.md) |
+| 🔐 **Cybersecurity** | `resources/cybersecurity/` | [📖 Explore](resources/cybersecurity/README.md) |
+| 🧠 **Artificial Intelligence** | `resources/ai/` | [📖 Explore](resources/ai/README.md) |
+| 📊 **Data Science** | `resources/data-science/` | [📖 Explore](resources/data-science/README.md) |
+| ☁️ **Cloud & DevOps** | `resources/cloud-devops/` | [📖 Explore](resources/cloud-devops/README.md) |
+| 🏗 **System Design** | `resources/system-design/` | [📖 Explore](resources/system-design/README.md) |
+| 🎯 **Interview Preparation** | `resources/interview-prep/` | [📖 Explore](resources/interview-prep/README.md) |
+| 🔗 **Blockchain & Web3** | `resources/blockchain-web3/` | [📖 Explore](resources/blockchain-web3/README.md) |
+| 🎬 **Animation, VFX & Creative Tech** | `resources/animation-vfx/` | [📖 Explore](resources/animation-vfx/README.md) |
+| 🚀 **Startup & Entrepreneurship** | `resources/tech-startup/` | [📖 Explore](resources/tech-startup/README.md) |
+| 🧠 **System Thinking** | `resources/system-thinking/` | [📖 Explore](resources/system-thinking/README.md) |
+| 🧮 **Life Codes (Code Wisdom)** | `life-codes/` | [📖 Explore](life-codes/README.md) |
 
 ---
 
-## 🛠️ Tools & Automation
+# ⚙️ Automation Tools
 
-<div align="center">
-
-| 🔧 **Tool** | 🎯 **Purpose** | ⚡ **Quick Action** |
-|:------------|:---------------|:--------------------|
-| 🛠️ **Life Codes Generator** | Auto-generate wisdom modules | [`⚙️ Run`](setup_life_codes.sh) |
-| 🩺 **Health Checker** | Validate repo structure | [`🔍 Check`](repo_health_check.sh) |
-| 📊 **Progress Tracker** | Monitor learning milestones | [`📈 Track`](tools/progress_tracker.py) |
-| 📝 **Auto Documentation** | Generate README files | [`📄 Generate`](tools/auto_docs.py) |
-
-</div>
+| ⚙️ Tool | 📄 File | 🔗 Link |
+| ---- | ---- | ---- |
+| 🛠 **Life Codes Auto-Generator** | `setup_life_codes.sh` | [⚙️ View File](setup_life_codes.sh) |
+| 🩺 **Repository Health Checker** | `repo_health_check.sh` | [🩺 View File](repo_health_check.sh) |
 
 ---
 
-## 🚀 Quick Start Guide
+# 🛡 Maintainer & Contributor Zone
 
-<div align="center">
-
-### 🎯 **3 Steps to Success**
-
-</div>
-
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/ZeroHack01/Tohkkhui-Learning-Hub.git
-cd Tohkkhui-Learning-Hub
-
-# 2️⃣ Choose your learning path from the table above
-
-# 3️⃣ Start building and learning!
-```
-
-<div align="center">
-
-### 🗺️ **Recommended Learning Journeys**
-
-| 👤 **Your Background** | 🎯 **Recommended Path** | ⏱️ **Timeline** |
-|:----------------------|:------------------------|:-----------------|
-| 👶 **Complete Beginner** | Programming → Web Dev → Cloud | 6-12 months |
-| 🎓 **CS Graduate** | System Design → AI/ML → Startup | 3-6 months |
-| 💼 **Career Switcher** | Interview Prep → Focus Area → Portfolio | 4-8 months |
-| 🔧 **Working Developer** | Advanced Skills → System Thinking → Leadership | 3-6 months |
-
-</div>
+| 📄 File | Purpose |
+| ---- | ------- |
+| 🧭 [Maintainer Handbook](MAINTAINER_HANDBOOK.md) | Complete operating guide |
+| 🤝 [Contributing Guide](CONTRIBUTING.md) | Contribution rules |
+| 🚦 [Code of Conduct](CODE_OF_CONDUCT.md) | Community standards |
+| 🗂 [Repo Structure](repo_structure.md) | Complete file map |
+| 📝 [License (MIT)](LICENSE) | Legal usage license |
 
 ---
 
-## 🌟 Core Philosophy
+# 💡 Our Core Philosophy
 
-<div align="center">
+✅ Build deep systems, not just consume courses  
+✅ Play long-term career games  
+✅ Master fundamental thinking models  
+✅ Build wisdom-based code  
+✅ Think beyond frameworks — focus on foundations
 
-### 🎯 **The TOHKHHUI Way**
-
-| 💎 **Principle** | 🧠 **Why It Matters** |
-|:-----------------|:----------------------|
-| **🏗️ Systems > Tutorials** | Understanding patterns creates lasting knowledge |
-| **⏰ Longevity > Hype** | Focus on technologies with staying power |
-| **🎯 Depth > Breadth** | Master fundamentals before chasing trends |
-| **📈 Compound Growth** | Small consistent efforts create exponential results |
-| **🧠 Think, Then Code** | Strategy beats tactics every time |
-
-</div>
-
-> 🎯 *"Long-term thinkers always win the tech game. We're building sustainable careers, not quick fixes."*
+> _"Tech is temporary. System thinking is forever."_ 🧠
 
 ---
 
-## 📚 Project Documentation
+# 🙏 Credits & Acknowledgments
 
-<div align="center">
-
-| 📖 **Document** | 🎯 **Purpose** |
-|:----------------|:---------------|
-| [🧭 **Maintainer Handbook**](MAINTAINER_HANDBOOK.md) | Complete guide for maintaining this ecosystem |
-| [🤝 **Contributing Guide**](CONTRIBUTING.md) | How to contribute effectively |
-| [🚦 **Code of Conduct**](CODE_OF_CONDUCT.md) | Community standards and guidelines |
-| [🏗️ **Repository Structure**](repo_structure.md) | Detailed directory breakdown |
-| [🗺️ **Roadmap**](ROADMAP.md) | Future plans and milestones |
-| [📝 **License (MIT)**](LICENSE) | Legal usage terms |
-
-</div>
+- 📖 Open-source educators  
+- 🌍 Global contributors  
+- 🔬 Knowledge sharers  
+- 🧱 Builders like **YOU**  
+- 🩺 Lifelong learners building TOHKHHUI together!
 
 ---
 
-## 🙏 Acknowledgments
+# 🚀 Maintained by
 
-<div align="center">
+**Founder:** [@ZeroHack01](https://github.com/ZeroHack01)
 
-**🌟 Built with gratitude for:**
-- 📖 Open-source educators who share knowledge freely
-- 🌍 Global contributors who make this better
-- 🔬 Researchers and practitioners who lead the way
-- 🏗️ Builders who create the future
-- ⭐ **You** - for being part of this journey
-
-</div>
+> ⭐ If this helps you — please **star** the repo, share it, and help others grow.
 
 ---
 
-## ⭐ Show Your Support
-
 <div align="center">
 
-**🌟 If this project helps your learning journey:**
-
-⭐ **Star this repo** • 🍴 **Fork and customize** • 📢 **Share with others** • 🤝 **Contribute your expertise**
-
-### 💡 *"Knowledge shared is knowledge multiplied"*
-
----
-
-<img src="https://img.shields.io/badge/Made%20with-🧠%20System%20Thinking-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Built%20for-🌍%20Global%20Learners-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Powered%20by-☕%20Coffee%20&%20Code-brown?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Built%20With-🧠%20System%20Thinking-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Powered%20By-☕%20Coffee%20&%20Focus-brown?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Made%20For-Global%20Learners-green?style=for-the-badge"/>
 
 </div>
