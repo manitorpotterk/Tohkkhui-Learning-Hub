@@ -2,12 +2,12 @@
 <h3 align="center"><i>"Don't just learn tech — Master systems. Build careers. Grow for life."</i></h3>
 
 <p align="center">
-💻 Programming • 🌐 Web Development • 🤖 AI & ML • 🔐 Cybersecurity • ☁️ Cloud & DevOps • 🔬 Data Science • 🔗 Blockchain & Web3 • 🧠 System Thinking • 🎬 Creative Tech • 💼 Entrepreneurship
+💻 Programming • 🌐 Web Development • 🤖 AI & ML • 🔐 Cybersecurity • ☁️ Cloud & DevOps • 🔬 Data Science • 🔗 Blockchain & Web3 • 🧠 System Thinking • 🎬 Creative Tech • 🚀 Tech Startups
 </p>
 
 ---
 
-# 📌 What is TOHKHHUI?
+# 📌 Why TOHKHHUI Exists
 
 ✅ 100% Free-First Learning  
 ✅ Professionally Curated Roadmaps  
@@ -34,7 +34,7 @@
 | 🎯 **Interview Preparation** | `resources/interview-prep/` | [📖 Explore](resources/interview-prep/README.md) |
 | 🔗 **Blockchain & Web3** | `resources/blockchain-web3/` | [📖 Explore](resources/blockchain-web3/README.md) |
 | 🎬 **Animation, VFX & Creative Tech** | `resources/animation-vfx/` | [📖 Explore](resources/animation-vfx/README.md) |
-| 🚀 **Startup & Entrepreneurship** | `resources/tech-startup/` | [📖 Explore](resources/tech-startup/README.md) |
+| 🚀 **Tech Startup & Founders** | `resources/tech-startup/` | [📖 Explore](resources/tech-startup/README.md) |
 | 🧠 **System Thinking** | `resources/system-thinking/` | [📖 Explore](resources/system-thinking/README.md) |
 | 🧮 **Life Codes (Code Wisdom)** | `life-codes/` | [📖 Explore](life-codes/README.md) |
 
@@ -57,7 +57,7 @@
 | 🤝 [Contributing Guide](CONTRIBUTING.md) | Contribution rules |
 | 🚦 [Code of Conduct](CODE_OF_CONDUCT.md) | Community standards |
 | 🗂 [Repo Structure](repo_structure.md) | Complete file map |
-| 📝 [License (MIT)](LICENSE) | Legal usage license |
+| 📝 [License (MIT)](LICENSE) | Open-source license |
 
 ---
 
