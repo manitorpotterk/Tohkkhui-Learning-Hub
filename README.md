@@ -1,100 +1,92 @@
-<h1 align="center">🌐 TOHKHHUI LearnHub 🚀</h1>
-<h3 align="center"><i>"Don't just learn tech — Master systems. Build careers. Grow for life."</i></h3>
+<h1 align="center">🌐 TOHKHHUI — The Open Tech Learning Ecosystem 🚀</h1>
+<h3 align="center"><i>"Master systems. Build durable skills. Accelerate lifelong growth."</i></h3>
 
 <p align="center">
-💻 Programming • 🌐 Web Development • 🤖 AI & ML • 🔐 Cybersecurity • ☁️ Cloud & DevOps • 🔬 Data Science • 🔗 Blockchain & Web3 • 🧠 System Thinking • 🎬 Creative Tech • 🚀 Tech Startups
+💻 Programming • 🌐 Web Development • 🤖 AI & ML • 🔐 Cybersecurity • ☁️ Cloud & DevOps • 🔬 Data Science • 🔗 Blockchain & Web3 • 🧠 System Thinking • 🎬 Creative Tech • 🚀 Startup Systems
 </p>
 
 ---
 
-# 📌 Why TOHKHHUI Exists
+# 📌 About TOHKHHUI Ecosystem
 
-✅ 100% Free-First Learning  
-✅ Professionally Curated Roadmaps  
-✅ System Thinking for Long-Term Tech Mastery  
-✅ Wisdom-Based Coding Philosophy (Life Codes)  
-✅ Career-Focused Growth Paths
+TOHKHHUI is a fully curated, professionally structured, open-access ecosystem designed to help you:
 
-> _"We don't chase trends. We build durable knowledge systems that compound over decades."_ 🚀
+✅ Build **system-level understanding** across multiple tech domains  
+✅ Navigate your career with **long-term roadmaps**  
+✅ Apply **wisdom-based coding practices** through Life Codes  
+✅ Develop **deep multidisciplinary skills**  
+✅ Avoid "tutorial traps" & master **durable knowledge**
+
+> _"We don’t collect certifications. We build adaptive systems that scale across evolving technologies."_ 🚀
 
 ---
 
-# 🗺 Repository Map — Your Complete Tech Universe
+# 🗺 Ecosystem Map — Navigate The Knowledge Network
 
-| 🚀 Section | 📂 Directory | 🔗 Link |
+| 🚀 Domain | 📂 Directory | 🔗 Access |
 | -------- | -------- | ---- |
-| 🌱 **Programming** | `resources/programming/` | [📖 Explore](resources/programming/README.md) |
+| 🌱 **Programming Foundations** | `resources/programming/` | [📖 Explore](resources/programming/README.md) |
 | 🌐 **Web Development** | `resources/web-development/` | [📖 Explore](resources/web-development/README.md) |
 | 🤖 **Machine Learning** | `resources/machine-learning/` | [📖 Explore](resources/machine-learning/README.md) |
-| 🔐 **Cybersecurity** | `resources/cybersecurity/` | [📖 Explore](resources/cybersecurity/README.md) |
+| 🔐 **Cybersecurity & Ethical Hacking** | `resources/cybersecurity/` | [📖 Explore](resources/cybersecurity/README.md) |
 | 🧠 **Artificial Intelligence** | `resources/ai/` | [📖 Explore](resources/ai/README.md) |
-| 📊 **Data Science** | `resources/data-science/` | [📖 Explore](resources/data-science/README.md) |
+| 📊 **Data Science & Analytics** | `resources/data-science/` | [📖 Explore](resources/data-science/README.md) |
 | ☁️ **Cloud & DevOps** | `resources/cloud-devops/` | [📖 Explore](resources/cloud-devops/README.md) |
-| 🏗 **System Design** | `resources/system-design/` | [📖 Explore](resources/system-design/README.md) |
-| 🎯 **Interview Preparation** | `resources/interview-prep/` | [📖 Explore](resources/interview-prep/README.md) |
-| 🔗 **Blockchain & Web3** | `resources/blockchain-web3/` | [📖 Explore](resources/blockchain-web3/README.md) |
-| 🎬 **Animation, VFX & Creative Tech** | `resources/animation-vfx/` | [📖 Explore](resources/animation-vfx/README.md) |
-| 🚀 **Tech Startup & Founders** | `resources/tech-startup/` | [📖 Explore](resources/tech-startup/README.md) |
-| 🧠 **System Thinking** | `resources/system-thinking/` | [📖 Explore](resources/system-thinking/README.md) |
-| 🧮 **Life Codes (Code Wisdom)** | `life-codes/` | [📖 Explore](life-codes/README.md) |
+| 🏗 **System Design & Architecture** | `resources/system-design/` | [📖 Explore](resources/system-design/README.md) |
+| 🎯 **Interview Preparation & Technical Hiring** | `resources/interview-prep/` | [📖 Explore](resources/interview-prep/README.md) |
+| 🔗 **Blockchain & Web3 Development** | `resources/blockchain-web3/` | [📖 Explore](resources/blockchain-web3/README.md) |
+| 🎬 **Creative Tech: Animation, VFX, 3D** | `resources/animation-vfx/` | [📖 Explore](resources/animation-vfx/README.md) |
+| 🚀 **Startup Systems & Founders Resources** | `resources/tech-startup/` | [📖 Explore](resources/tech-startup/README.md) |
+| 🧠 **System Thinking (Lifelong Meta-Learning)** | `resources/system-thinking/` | [📖 Explore](resources/system-thinking/README.md) |
+| 🧮 **Life Codes (Wisdom Embedded In Code)** | `life-codes/` | [📖 Explore](life-codes/README.md) |
 
 ---
 
-# ⚙️ Automation Tools
+# ⚙️ Automation Suite
 
-| ⚙️ Tool | 📄 File | 🔗 Link |
+| ⚙️ Tool | 📄 File | 🔗 View |
 | ---- | ---- | ---- |
-| 🛠 **Life Codes Auto-Generator** | `setup_life_codes.sh` | [⚙️ View File](setup_life_codes.sh) |
-| 🩺 **Repository Health Checker** | `repo_health_check.sh` | [🩺 View File](repo_health_check.sh) |
+| 🛠 **Life Codes Auto-Builder** | `setup_life_codes.sh` | [⚙️ View](setup_life_codes.sh) |
+| 🩺 **Repository Health Checker** | `repo_health_check.sh` | [🩺 View](repo_health_check.sh) |
 
 ---
 
 # 🛡 Maintainer & Contributor Zone
 
-| 📄 File | Purpose |
+| 📄 Document | Purpose |
 | ---- | ------- |
-| 🧭 [Maintainer Handbook](MAINTAINER_HANDBOOK.md) | Complete operating guide |
-| 🤝 [Contributing Guide](CONTRIBUTING.md) | Contribution rules |
-| 🚦 [Code of Conduct](CODE_OF_CONDUCT.md) | Community standards |
-| 🗂 [Repo Structure](repo_structure.md) | Complete file map |
-| 📝 [License (MIT)](LICENSE) | Open-source license |
+| 🧭 [Maintainer Handbook](MAINTAINER_HANDBOOK.md) | Full operating guide |
+| 🤝 [Contribution Guide](CONTRIBUTING.md) | Standards for contributors |
+| 🚦 [Code of Conduct](CODE_OF_CONDUCT.md) | Community behavior policy |
+| 🗂 [Repository Structure](repo_structure.md) | Complete file hierarchy |
+| 📜 [License (MIT)](LICENSE) | Open-source license |
 
 ---
 
-# 💡 Our Core Philosophy
+# 🧠 Core Principles
 
-✅ Build deep systems, not just consume courses  
-✅ Play long-term career games  
-✅ Master fundamental thinking models  
-✅ Build wisdom-based code  
-✅ Think beyond frameworks — focus on foundations
+✅ Build **knowledge ecosystems**, not isolated skills  
+✅ Master **mental models** over tools  
+✅ Focus on **long-term adaptability**, not short-term hype  
+✅ Stack **multidisciplinary thinking**  
+✅ Encode **wisdom into code**
 
-> _"Tech is temporary. System thinking is forever."_ 🧠
-
----
-
-# 🙏 Credits & Acknowledgments
-
-- 📖 Open-source educators  
-- 🌍 Global contributors  
-- 🔬 Knowledge sharers  
-- 🧱 Builders like **YOU**  
-- 🩺 Lifelong learners building TOHKHHUI together!
+> _"Frameworks expire. Core systems scale."_ 🧠
 
 ---
 
-# 🚀 Maintained by
+# 🙏 Credits & Global Community
 
-**Founder:** [@ZeroHack01](https://github.com/ZeroHack01)
-
-> ⭐ If this helps you — please **star** the repo, share it, and help others grow.
+- 🌍 Open-source educators who freely share knowledge  
+- 🔬 Technologists contributing their expertise  
+- 🧱 Builders contributing to TOHKHHUI  
+- 🧠 Global lifelong learners growing together
 
 ---
 
-<div align="center">
+# 📢 Community
 
-<img src="https://img.shields.io/badge/Built%20With-🧠%20System%20Thinking-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Powered%20By-☕%20Coffee%20&%20Focus-brown?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Made%20For-Global%20Learners-green?style=for-the-badge"/>
+> If this ecosystem empowers you — ⭐ **Star the repository, share with others, and contribute freely.**  
+> Every star helps this open-source ecosystem grow and reach more learners worldwide.
 
-</div>
+---
