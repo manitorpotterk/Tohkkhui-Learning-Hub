@@ -3,183 +3,139 @@
 A fully curated, free and professional resource list for AI: Natural Language Processing, Computer Vision, Reinforcement Learning, AGI, AI Ethics, and Applied AI.
 
 ---
+## 📚 Official Guides & Documentation
+1. [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
+2. [Anthropic's Claude Prompting Guide](https://www.anthropic.com/news/prompting-gpt-like-models)
+3. [Google's Generative AI Guide](https://developers.google.com/machine-learning/resources/prompt-guide)
+4. [Hugging Face Prompting Guide](https://huggingface.co/docs/transformers/prompting)
+5. [Microsoft Prompt Engineering Guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
 
-## 🚀 General AI Foundations
+## 🎓 Free Courses & Tutorials
+6. [DeepLearning.AI ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+7. [Learn Prompting](https://learnprompting.org/)
+8. [Google's Generative AI Learning Path](https://www.cloudskillsboost.google/journeys/118)
+9. [Fast.ai Practical Deep Learning](https://course.fast.ai/)
+10. [Hugging Face NLP Course](https://huggingface.co/course/)
+11. [Elements of AI](https://www.elementsofai.com/)
+12. [Stanford CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
+13. [MIT Introduction to Deep Learning](https://introtodeeplearning.com/)
+14. [Harvard CS50 AI](https://cs50.ai/)
+15. [Berkeley Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
 
-### 📚 Books
+## 📝 Books & Papers
+16. [OpenAI GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+17. [Gwern's GPT-3 Creative Writing](https://gwern.net/gpt-3)
+18. [Chain-of-Thought Prompting Paper](https://arxiv.org/abs/2201.11903)
+19. [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
+20. [In-Context Learning Paper](https://arxiv.org/abs/2301.00234)
+21. [The AI Revolution in Education](https://www.oneusefulthing.org/p/the-ai-revolution-in-education)
+22. [Prompt Engineering Overview](https://arxiv.org/abs/2312.16148)
+23. [LLM Safety Papers](https://aisafety.research.google/)
+24. [AI Alignment Forum](https://www.alignmentforum.org/)
+25. [Distill.pub Articles](https://distill.pub/)
 
-- [Artificial Intelligence: A Modern Approach (Russell & Norvig)](http://aima.cs.berkeley.edu/)
-- [The Quest for Artificial Intelligence (Nils Nilsson, Free)](https://ai.stanford.edu/~nilsson/QAI/qai.pdf)
-- [Machine Learning Yearning (Andrew Ng - Free)](https://www.deeplearning.ai/machine-learning-yearning/)
+## 🎥 YouTube Channels
+26. [OpenAI](https://www.youtube.com/@OpenAI)
+27. [DeepLearningAI](https://www.youtube.com/@DeepLearningAI)
+28. [Matt Wolfe](https://www.youtube.com/@mreflow)
+29. [David Shapiro](https://www.youtube.com/@DavidShapiroAutomator)
+30. [All About AI](https://www.youtube.com/@AllAboutAI)
+31. [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
+32. [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
+33. [AI Explained](https://www.youtube.com/@ai-explained-)
+34. [Lex Fridman](https://www.youtube.com/@lexfridman)
+35. [Computerphile](https://www.youtube.com/@Computerphile)
 
-### 🌐 Web Courses
+## 🛠️ Tools & Platforms
+36. [OpenAI Playground](https://platform.openai.com/playground)
+37. [Hugging Face Spaces](https://huggingface.co/spaces)
+38. [LangChain](https://langchain.com/)
+39. [LlamaIndex](https://gpt-index.readthedocs.io/)
+40. [Bing AI (GPT-4)](https://www.bing.com/new)
+41. [Claude AI](https://claude.ai/)
+42. [Perplexity AI](https://www.perplexity.ai/)
+43. [EleutherAI Playground](https://6b.eleuther.ai/)
+44. [Google Colab](https://colab.research.google.com/)
+45. [Replicate](https://replicate.com/)
 
-- [CS50's Introduction to AI with Python (Harvard, Free)](https://cs50.harvard.edu/ai/)
-- [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu/)
-- [Google AI Learning Resources](https://ai.google/education/)
+## 💡 Prompt Repositories
+46. [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+47. [PromptBase](https://promptbase.com/)
+48. [FlowGPT](https://flowgpt.com/)
+49. [Prompting.AI](https://prompting.ai/)
+50. [ChatGPT Cheat Sheet](https://github.com/kaiwaehner/awesome-chatgpt-prompts)
+51. [Prompt Engineering Examples](https://github.com/dair-ai/Prompt-Engineering-Guide)
+52. [LangChain Templates](https://github.com/langchain-ai/langchain)
+53. [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+54. [Hugging Face Examples](https://huggingface.co/docs/transformers/tasks)
+55. [AI Playbook](https://aiplaybook.a16z.com/)
 
-### 🎥 YouTube Channels
+## 🔬 Research Resources
+56. [arXiv AI Papers](https://arxiv.org/list/cs.AI/recent)
+57. [Papers With Code](https://paperswithcode.com/)
+58. [AI Index Report](https://aiindex.stanford.edu/)
+59. [OpenAI Research](https://openai.com/research)
+60. [Google AI Blog](https://ai.googleblog.com/)
+61. [DeepMind Blog](https://deepmind.google/blog/)
+62. [Meta AI Blog](https://ai.facebook.com/blog/)
+63. [Anthropic Research](https://www.anthropic.com/research)
+64. [EleutherAI Research](https://www.eleuther.ai/research)
+65. [BAIR Blog](https://bair.berkeley.edu/blog/)
 
-- [FreeCodeCamp AI Full Course](https://www.youtube.com/watch?v=JMUxmLyrhSk)
-- [Two Minute Papers (Research Explained)](https://www.youtube.com/c/KárolyZsolnai)
-- [Yannic Kilcher (AI Paper Reviews)](https://www.youtube.com/c/YannicKilcher)
-- [Henry AI Labs](https://www.youtube.com/c/HenryAILabs)
-- [Lex Fridman AI Podcast](https://www.youtube.com/c/lexfridman)
+## 🌐 Communities & Forums
+66. [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+67. [r/PromptEngineering](https://www.reddit.com/r/PromptEngineering/)
+68. [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
+69. [OpenAI Discord](https://discord.com/invite/openai)
+70. [Hugging Face Discord](https://huggingface.co/join/discord)
+71. [Learn Prompting Discord](https://discord.gg/learn-prompting)
+72. [AI Stack Exchange](https://ai.stackexchange.com/)
+73. [Stack Overflow AI](https://stackoverflow.com/questions/tagged/ai)
+74. [Kaggle Discussions](https://www.kaggle.com/discussions)
+75. [LessWrong AI](https://www.lesswrong.com/tag/ai)
 
-### 🔧 Extra Resources
+## 🏛 University Resources
+76. [MIT OpenCourseWare AI](https://ocw.mit.edu/search/?q=artificial%20intelligence)
+77. [Stanford AI Lab](https://ai.stanford.edu/)
+78. [Berkeley AI Research](https://bair.berkeley.edu/)
+79. [CMU NLP](https://www.cs.cmu.edu/~./nlp/)
+80. [Harvard AI](https://ai.harvard.edu/)
+81. [Oxford ML](https://www.cs.ox.ac.uk/research/machinelearning/)
+82. [Cambridge ML](https://mlg.eng.cam.ac.uk/)
+83. [ETH Zurich AI](https://ai.ethz.ch/)
+84. [UT Austin ML](https://www.cs.utexas.edu/research/ai-ml)
+85. [Princeton NLP](https://www.cs.princeton.edu/research/area/natural-language-processing)
 
-- [OpenAI Research Blog](https://openai.com/research)
-- [AI Weekly](https://www.getrevue.co/profile/aiweekly)
+## 🆓 Free Tools & Extensions
+86. [AIPRM for ChatGPT](https://aiprm.com/)
+87. [ShareGPT](https://sharegpt.com/)
+88. [PromptInject](https://github.com/agencyenterprise/PromptInject)
+89. [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
+90. [OpenAI API Docs](https://platform.openai.com/docs/api-reference)
+91. [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
+92. [Weights & Biases](https://wandb.ai/site)
+93. [Gradio](https://www.gradio.app/)
+94. [Streamlit](https://streamlit.io/)
+95. [Llama.cpp](https://github.com/ggerganov/llama.cpp)
 
----
+## 📰 Newsletters & Blogs
+96. [The Batch by DeepLearning.AI](https://www.deeplearning.ai/the-batch/)
+97. [AI Weekly](https://aiweekly.co/)
+98. [Last Week in AI](https://lastweekin.ai/)
+99. [One Useful Thing](https://www.oneusefulthing.org/)
+100. [Import AI](https://importai.substack.com/)
+101. [Towards AI](https://towardsai.net/)
+102. [The Algorithm](https://www.technologyreview.com/the-algorithm/)
+103. [AI Business](https://aibusiness.com/)
+104. [Synced](https://syncedreview.com/)
+105. [MarkTechPost](https://www.marktechpost.com/)
 
-## 🚀 Natural Language Processing (NLP)
-
-### 📚 Books
-
-- [Speech and Language Processing (Jurafsky & Martin)](https://web.stanford.edu/~jurafsky/slp3/)
-- [Natural Language Processing with Python (NLTK Book)](https://www.nltk.org/book/)
-- [Practical Natural Language Processing (O'Reilly)](https://www.oreilly.com/library/view/practical-natural-language/9781492054054/)
-
-### 🌐 Web Courses
-
-- [DeepLearning.AI NLP Specialization (Coursera - Free Audit)](https://www.coursera.org/specializations/natural-language-processing)
-- [CS224N NLP (Stanford - Free)](http://web.stanford.edu/class/cs224n/)
-- [Kaggle NLP Learn Track](https://www.kaggle.com/learn/natural-language-processing)
-
-### 🎥 YouTube Channels
-
-- [Stanford NLP CS224N Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
-- [Hugging Face YouTube](https://www.youtube.com/c/HuggingFace)
-- [Krish Naik NLP Tutorials](https://www.youtube.com/c/KrishNaik)
-- [DeepLearningAI NLP](https://www.youtube.com/c/DeepLearningAI)
-- [DataTalks NLP](https://www.youtube.com/c/DataTalksClub)
-
-### 🔧 Extra Resources
-
-- [Hugging Face Transformers](https://huggingface.co/)
-- [NLTK Toolkit](https://www.nltk.org/)
-- [spaCy Library](https://spacy.io/)
-
----
-
-## 🚀 Computer Vision
-
-### 📚 Books
-
-- [Computer Vision: Algorithms and Applications (Szeliski, Free PDF)](http://szeliski.org/Book/)
-- [Deep Learning for Vision Systems (O'Reilly)](https://www.oreilly.com/library/view/deep-learning-for/9781617291616/)
-- [Programming Computer Vision with Python (Free Draft)](https://programmingcomputervision.com/)
-
-### 🌐 Web Courses
-
-- [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](https://cs231n.stanford.edu/)
-- [FastAI Vision Course](https://course.fast.ai/)
-- [Deep Learning CV Course - Coursera](https://www.coursera.org/learn/computer-vision-with-tensorflow)
-
-### 🎥 YouTube Channels
-
-- [CS231n Stanford Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- [Aladdin Persson CV Playlist](https://www.youtube.com/c/AladdinPersson)
-- [PyImageSearch YouTube](https://www.youtube.com/c/PyImageSearch)
-- [DeepLizard Computer Vision](https://www.youtube.com/c/deeplizard)
-- [Henry AI Labs CV Research](https://www.youtube.com/c/HenryAILabs)
-
-### 🔧 Extra Resources
-
-- [OpenCV](https://opencv.org/)
-- [PyTorch Vision](https://pytorch.org/vision/stable/index.html)
-- [LabelImg (Annotation Tool)](https://github.com/tzutalin/labelImg)
-
----
-
-## 🚀 Reinforcement Learning
-
-### 📚 Books
-
-- [Reinforcement Learning: An Introduction (Sutton & Barto, Free PDF)](http://incompleteideas.net/book/RLbook2020.pdf)
-- [Deep Reinforcement Learning Hands-On](https://www.packtpub.com/product/deep-reinforcement-learning-hands-on/9781838826994)
-- [Algorithms for Reinforcement Learning (Csaba Szepesvári)](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
-
-### 🌐 Web Courses
-
-- [Deep Reinforcement Learning Nanodegree (Udacity Free Trial)](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
-- [Coursera Reinforcement Learning Specialization (Free Audit)](https://www.coursera.org/specializations/reinforcement-learning)
-- [MIT OpenCourse RL](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/)
-
-### 🎥 YouTube Channels
-
-- [DeepMind x UCL RL Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
-- [David Silver’s Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDlUtR9fqK0Z5C8Yk3eDWGI)
-- [DeepLizard RL Series](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq5b5x1jACERDqfYGuK0eZp)
-- [Yannic Kilcher RL Research](https://www.youtube.com/c/YannicKilcher)
-- [Henry AI Labs RL Topics](https://www.youtube.com/c/HenryAILabs)
-
-### 🔧 Extra Resources
-
-- [OpenAI Gym](https://gym.openai.com/)
-- [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3)
-- [RL Adventure GitHub](https://github.com/higgsfield/RL-Adventure)
-
----
-
-## 🚀 AI Ethics & Policy
-
-### 📚 Books
-
-- [Weapons of Math Destruction (Cathy O'Neil)](https://weaponsofmathdestructionbook.com/)
-- [Ethics of Artificial Intelligence (Nick Bostrom)](https://nickbostrom.com/ethics/artificial-intelligence.pdf)
-- [The Alignment Problem (Brian Christian)](https://www.allenai.org/aligning-ai)
-
-### 🌐 Web Courses
-
-- [Elements of AI (University of Helsinki)](https://www.elementsofai.com/)
-- [AI Ethics in the Age of Smart Machines (EdX)](https://www.edx.org/course/ai-ethics-and-society)
-- [AI Now Institute Resources](https://ainowinstitute.org/)
-
-### 🎥 YouTube Channels
-
-- [AI Alignment - Robert Miles](https://www.youtube.com/c/RobertMilesAI)
-- [Lex Fridman AI Ethics Interviews](https://www.youtube.com/c/lexfridman)
-- [AIEthicsLab](https://www.youtube.com/c/AIEthicsLab)
-- [Partnership on AI](https://www.youtube.com/c/PartnershiponAI)
-- [AI Now Public Talks](https://www.youtube.com/c/AINowInstitute)
-
-### 🔧 Extra Resources
-
-- [Partnership on AI](https://www.partnershiponai.org/)
-- [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
-
----
-
-## 🚀 Prompt Engineering
-
-### 📚 Books & Guides
-
-- [The Art of Prompt Engineering with ChatGPT (Free PDF)](https://www.promptingguide.ai/)
-- [Awesome ChatGPT Prompts GitHub](https://github.com/f/awesome-chatgpt-prompts)
-- [OpenAI Cookbook (Prompt Engineering Examples)](https://github.com/openai/openai-cookbook)
-- [Prompt Engineering Guide](https://www.promptingguide.ai/)
-
-### 🌐 Web Courses
-
-- [DeepLearning.AI — ChatGPT Prompt Engineering for Developers (FREE)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- [OpenAI Prompt Engineering Resources](https://platform.openai.com/docs/guides/prompt-engineering)
-- [Learn Prompting (FREE full curriculum)](https://learnprompting.org/)
-
-### 🎥 YouTube Channels
-
-- [Prompt Engineering - Data Professor](https://www.youtube.com/watch?v=VJoH2D2Xb0Q)
-- [Fireship - Prompt Engineering 100 Seconds](https://www.youtube.com/watch?v=qw--VYLpxG4)
-- [All About AI (Prompt Tutorials)](https://www.youtube.com/c/AllAboutAI)
-- [The AI Advantage (Prompt Tricks & Workflows)](https://www.youtube.com/c/TheAIAdvantage)
-- [Matt Wolfe (Prompt Engineering Demos)](https://www.youtube.com/c/MattWolfeAI)
-
-### 🔧 Extra Resources
-
-- [OpenAI Playground (Prompt Testing)](https://platform.openai.com/playground)
-- [PromptPerfect (Prompt Optimization)](https://promptperfect.jina.ai/)
-- [Prompt Engineering Papers](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+P+Prompting)
+## 🎯 Bonus: Must-Know Resources
+106. [AI Safety Resources](https://aisafety.research.google/)
+107. [AI Incident Database](https://incidentdatabase.ai/)
+108. [AI Ethics Guidelines](https://www.weforum.org/projects/ai-ethics-guidelines)
+109. [Responsible AI Practices](https://ai.google/responsibility/)
+110. [Partnership on AI](https://partnershiponai.org/)
 
 ---
 
